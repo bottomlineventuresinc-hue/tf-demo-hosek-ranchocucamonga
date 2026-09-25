@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, hardscape, and fences across Rancho Cucamonga and the Inland Empire. Anthony walks the yard first and puts the price in writing.';
+            'Landscaping, hardscape, and fences in Rancho Cucamonga. Anthony walks the yard first and puts the price in writing.';
         }
       }
     },
