@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, hardscape, and fence work across Rancho Cucamonga and the Inland Empire. You get a fixed itemised quote before we start, Anthony as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Landscaping, hardscape, and fences across Rancho Cucamonga and the Inland Empire. Anthony walks the yard first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Yards and hardscape,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Yards, patios, and fences,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Landscaping (written programme)';
+          serviceFirst.textContent = 'Paver patios and walkways (written price)';
         }
       }
     }
